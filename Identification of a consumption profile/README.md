@@ -1,2 +1,17 @@
-# Yandex-Practicum-Projects
-This repository contains my projects created during my education in Yandex Practicum
+# Final project - Identification of a consumption profile
+# Финальный проект - Выявление профилей потребления
+
+## Данные
+Датасет описывает транзакции интернет-магазина товаров для дома и быта:
+- дата заказа
+- идентификатор покупателя
+- идентификатор заказа
+- наименование товара
+- количество товара в заказе
+- цена товара
+
+## Задача
+Сегментация пользователей в зависимости от категорий товаров и сезонности для дальнейшей настройки рекламной рассылки
+
+## Используемые библиотеки
+Pandas, Seaborn, Matplotlib, Scikit-learn, SciPy, Math
