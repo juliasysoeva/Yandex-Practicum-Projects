@@ -1,2 +1,4 @@
-# Yandex-Practicum-Projects
-This repository contains my projects created during my education in Yandex Practicum
+# Basic SQL
+# Базовый SQL
+
+Проект в модуле "Базовый SQL" выполнялся в тренажере Яндекс Практикума. База данных хранит информацию о венчурных фондах и инвестициях в компании-стартапы.
